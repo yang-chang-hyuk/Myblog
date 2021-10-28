@@ -1,2 +1,2 @@
 # Myblog
-https://yang-chang-hyuk.github.io/myblog/main.html
+https://yang-chang-hyuk.github.io/Myblog/main.html
